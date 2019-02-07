@@ -1,0 +1,5 @@
+All assigned problems from Absolute C++ (6th Edition) by Walter Savitch
+
+1. Implement the void Bag::insert(int target) member function for the Bag class. (5 points)
+2. Problem 3 on page 474 of textbook (10 points)
+3. Problem 4 on page 474 of textbook (15 points)
